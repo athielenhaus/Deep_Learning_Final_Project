@@ -1,2 +1,2 @@
-# Deep_Learning_Final_Project
-Final Project Repo for Ironhack Data Analytics Bootcamp
+# TheDeepDiversProject
+Repo to include all necessary files/notebooks used in the Mid-Bootcamp Project
